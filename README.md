@@ -1,6 +1,6 @@
 # Medical Data Extraction Project
 
-Hey there! 👋 I made this cool project to make dealing with medical documents a breeze. Check it out:
+Hey there! 👋 I made this cool project to make dealing with medical documents.
 
 - **PDFs to Clear Images:** Used pdf2image to turn those tricky PDFs into clear pictures.
 - **Brightening Images:** OpenCV jumps in to fix dark spots, making sure we don't miss a thing.
